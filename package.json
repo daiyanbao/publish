@@ -1,0 +1,28 @@
+{
+  "name": "publish",
+  "description": "代言宝发布模块",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Aven",
+      "email": "aven@daiyanbao.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daiyanbao/publish"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "",
+    "test-cov": "",
+    "test-travis": ""
+  }
+}
